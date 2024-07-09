@@ -8,7 +8,7 @@ I am a passionate front-end developer with a knack for crafting elegant and effi
 Want to collaborate or just chat about frontend development? Feel free to reach out! Let's build something amazing together. 😊✨
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [giftjacksun.netlify.app](http://https://giftjacksun.netlify.app/)
+* 🖥️  See my portfolio at [giftjacksun-02.netlify.app](http://https://giftjacksun-02.netlify.app/)
 * ✉️  You can contact me at [giftjacksun@gmail.com](mailto:giftjacksun@gmail.com)
 * 🧠  I'm learning Nextjs with UI libraries.
 * 🤝  I'm open to collaborating on Any badass project. I work on the front end and consume all APIs, you do the backend stuff, deal?
