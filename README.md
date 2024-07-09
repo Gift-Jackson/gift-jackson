@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a passionate front-end developer with a knack for crafting elegant and efficient user interfaces. 🚀 Constantly driven by the thrill of creating seamless digital experiences, I specialize in turning design concepts into responsive and dynamic web applications. 💻 With expertise in HTML, CSS, JavaScript, and various frontend frameworks like React, I love to stay updated with the latest trends and technologies in the ever-evolving world of web development. 🔍 Whether it's building pixel-perfect UIs, optimizing performance for better user experiences, or diving deep into accessibility standards, I'm committed to delivering top-notch solutions that not only meet but exceed expectations. 📫 Want to collaborate or just chat about frontend development? Feel free to reach out! Let's build something amazing together. 😊✨
+I am a passionate front-end developer with a knack for crafting elegant and efficient user interfaces. 🚀 
+Want to collaborate or just chat about frontend development? Feel free to reach out! Let's build something amazing together. 😊✨
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [giftjacksun.netlify.app](http://https://giftjacksun.netlify.app/)
 * ✉️  You can contact me at [giftjacksun@gmail.com](mailto:giftjacksun@gmail.com)
-* 🧠  I'm learning React and Nodejs
+* 🧠  I'm learning Nextjs with UI libraries.
 * 🤝  I'm open to collaborating on Any badass project. I work on the front end and consume all APIs, you do the backend stuff, deal?
 * ⚡  I graduated from the Department of Petroleum Engineering in Rivers State University... yeah, I know, I'm not a Computer Science student.
 
